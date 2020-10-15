@@ -1,0 +1,1 @@
+Very simple game done with TypeScript, React-Native and Expo (managed)
